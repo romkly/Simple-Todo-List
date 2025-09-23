@@ -1,1 +1,66 @@
 # Simple-Todo-List
+```markdown
+# 📝 Todo List App
+
+A minimal Todo List application built with **HTML, CSS, and JavaScript**.  
+It allows you to add tasks with due dates, display them in a styled grid, and delete tasks when completed.  
+
+---
+
+## 🚀 Features
+- Add todos with a **name** and **due date**
+- View todos in a clean grid layout
+- Delete tasks individually
+- Responsive, minimal styling with CSS Grid
+- Simple, lightweight, no external libraries
+
+---
+
+## 📂 Project Structure
+```
+
+.
+├── index.html      # Main HTML file
+├── styles.css      # CSS styling (grid + buttons)
+└── script.js       # JS logic for adding, rendering, deleting todos
+
+````
+
+---
+
+## ⚡ Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/todo-list-app.git
+   cd todo-list-app
+````
+
+2. Open `index.html` in your browser.
+
+3. Add todos by entering a name and selecting a due date, then click **Add**.
+
+4. Delete todos by clicking the **Delete** button next to them.
+
+---
+
+## 🎨 Screenshots
+
+(Add screenshots of your app UI here once you run it in the browser)
+
+---
+
+## 🛠️ Future Improvements
+
+* Save todos in **localStorage** so they persist after reload
+* Add edit functionality for tasks
+* Add filters (e.g., show only overdue tasks)
+* Improve responsive design for mobile
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+```
+```
