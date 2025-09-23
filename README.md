@@ -1,6 +1,4 @@
 # Simple-Todo-List
-# 📝 Todo List App
-
 A minimal Todo List application built with **HTML, CSS, and JavaScript**.  
 It allows you to add tasks with due dates, display them in a styled grid, and delete tasks when completed.  
 
