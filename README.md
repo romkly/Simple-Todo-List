@@ -26,7 +26,7 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
 ## ⚡ Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/romkly/Simple-Todo-List.git
    cd todo-list-app
 
 2. Open `index.html` in your browser.
