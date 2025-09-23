@@ -1,5 +1,4 @@
 # Simple-Todo-List
-```markdown
 # 📝 Todo List App
 
 A minimal Todo List application built with **HTML, CSS, and JavaScript**.  
@@ -17,8 +16,7 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
 ---
 
 ## 📂 Project Structure
-```
-
+````
 .
 ├── index.html      # Main HTML file
 ├── styles.css      # CSS styling (grid + buttons)
@@ -33,7 +31,7 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
    cd todo-list-app
-````
+
 
 2. Open `index.html` in your browser.
 
@@ -61,6 +59,3 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-```
-```
