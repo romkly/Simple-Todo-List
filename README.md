@@ -16,7 +16,7 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
 ## 📂 Project Structure
 ````
 .
-├── index.html      # Main HTML file
+├── todolist.html      # Main HTML file
 ├── styles.css      # CSS styling (grid + buttons)
 └── script.js       # JS logic for adding, rendering, deleting todos
 ````
