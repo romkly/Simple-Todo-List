@@ -37,12 +37,6 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
 
 ---
 
-## 🎨 Screenshots
-
-(Add screenshots of your app UI here once you run it in the browser)
-
----
-
 ## 🛠️ Future Improvements
 
 * Save todos in **localStorage** so they persist after reload
