@@ -17,8 +17,8 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
 ````
 .
 ├── todolist.html      # Main HTML file
-├── styles.css      # CSS styling (grid + buttons)
-└── script.js       # JS logic for adding, rendering, deleting todos
+├── styles.css         # CSS styling (grid + buttons)
+└── script.js          # JS logic for adding, rendering, deleting todos
 ````
 
 ---
