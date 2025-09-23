@@ -28,7 +28,7 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
    ```bash
    git clone https://github.com/romkly/Simple-Todo-List.git
 
-2. Open `index.html` in your browser.
+2. Open `todolist.html` in your browser.
 
 3. Add todos by entering a name and selecting a due date, then click **Add**.
 
