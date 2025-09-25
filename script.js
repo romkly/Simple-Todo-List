@@ -1,9 +1,13 @@
-const todoList = [];
+const todoList = JSON.parse(localStorage.getItem('rpsToDo')) || [];
+
+
 
 renderTodoList();
 
 function renderTodoList() {
-        let todoListHTML = '';
+    let todoListHTML = '';
+
+    localStorage.setItem('rpsToDo', JSON.stringify(todoList));
 
     for (let i = 0; i < todoList.length; i++) {
         const todoObject = todoList[i];
@@ -34,5 +38,7 @@ function addTodo() {
     // OR: todoList.push({ name: name, dueDate: dueDate });
     inputElement.value = '';
     renderTodoList();
+
+    localStorage.setItem('rpsToDo', JSON.stringify(todoList));
 }
 
