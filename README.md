@@ -38,7 +38,6 @@ It allows you to add tasks with due dates, display them in a styled grid, and de
 
 ## 🛠️ Future Improvements
 
-* Save todos in **localStorage** so they persist after reload
 * Add edit functionality for tasks
 * Add filters (e.g., show only overdue tasks)
 * Improve responsive design for mobile
